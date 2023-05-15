@@ -1,5 +1,5 @@
 {
-  "name": "@wcd/JoaoffPinho.cevue-getlistuser",
+  "name": "@wcd/JoaoffPinho-cevue-GetListUser",
   "version": "0.0.1",
   "scripts": {
     "serve": "npx wcd-cli@latest serve xBDuO63tGBUS4Hp2IyCu --open"
