@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/joaoffpinho.cevue-getlistuser",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve xBDuO63tGBUS4Hp2IyCu --open"
+  }
+}
